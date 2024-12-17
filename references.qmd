@@ -11,41 +11,46 @@ Zotero Group: [https://www.zotero.org/groups/5631396/co-site_book_sprints/librar
 
 ## KRITIS und Risiko- und Krisenmanagement
 
-Arnold, Rolf. 2023a. „Fortbildung - Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In Fortbildung - Digitales Wörterbuch Erwachsenen- und Weiterbildung. [https://doi.org/10.35468/wbeb2022-109](https://doi.org/10.35468/wbeb2022-109).
+Arnold, Rolf. 2023a. „Fortbildung - Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In Fortbildung - Digitales Wörterbuch Erwachsenen- und Weiterbildung. https://doi.org/10.35468/wbeb2022-109.
 
-———. 2023b. „Qualifikation – Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In . [https://doi.org/10.35468/wbeb2022-237](https://doi.org/10.35468/wbeb2022-237).
+———. 2023b. „Qualifikation – Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In . https://doi.org/10.35468/wbeb2022-237.
 
-BBK. o. J. „Sektoren und Branchen KRITIS“. Zugegriffen 21. August 2024. [https://www.bbk.bund.de/DE/Themen/Kritische-Infrastrukturen/Sektoren-Branchen/sektoren-branchen_node.html](https://www.bbk.bund.de/DE/Themen/Kritische-Infrastrukturen/Sektoren-Branchen/sektoren-branchen_node.html).
+BBK. o. J. „Sektoren und Branchen KRITIS“. Zugegriffen 21. August 2024. https://www.bbk.bund.de/DE/Themen/Kritische-Infrastrukturen/Sektoren-Branchen/sektoren-branchen_node.html.
 
-BMI, Referat SW I 1 - Stadtentwicklungspolitik, und Oliver Weigel. 2021. „Memorandum ‚Urbane Resilienz - Wege zur robusten, adaptiven und zukunftsfähigen Stadt‘“. Bundesministerium des Innern, für Bau und Heimat. [https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/SharedDocs/Publikationen/DE/Publikationen/memorandum_urbane_resilienz.pdf](https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/SharedDocs/Publikationen/DE/Publikationen/memorandum_urbane_resilienz.pdf).
+BMI, Referat SW I 1 - Stadtentwicklungspolitik, und Oliver Weigel. 2021. „Memorandum ‚Urbane Resilienz - Wege zur robusten, adaptiven und zukunftsfähigen Stadt‘“. Bundesministerium des Innern, für Bau und Heimat. https://www.nationale-stadtentwicklungspolitik.de/NSPWeb/SharedDocs/Publikationen/DE/Publikationen/memorandum_urbane_resilienz.pdf.
 
-Bundesamt für Bevölkerungsschutz und Katastrophenhilfe. o. J. Glossar des Bundesamts für Bevölkerungsschutz und Katastrophenhilfe. Bundesamt für Bevölkerungsschutz und Katastrophenhilfe. Zugegriffen 20. August 2024. [https://www.bbk.bund.de/DE/Infothek/Glossar/glossar_node.html](https://www.bbk.bund.de/DE/Infothek/Glossar/glossar_node.html).
+Bundesamt für Bevölkerungsschutz und Katastrophenhilfe. o. J. Glossar des Bundesamts für Bevölkerungsschutz und Katastrophenhilfe. Bundesamt für Bevölkerungsschutz und Katastrophenhilfe. Zugegriffen 20. August 2024. https://www.bbk.bund.de/DE/Infothek/Glossar/glossar_node.html.
 
-CIPRNet. o. J. „CIPedia“. Zugegriffen 21. August 2024. [https://websites.fraunhofer.de/CIPedia/index.php/CIPedia%C2%A9_Main_Page](https://websites.fraunhofer.de/CIPedia/index.php/CIPedia%C2%A9_Main_Page).
-Dobischat, Rolf. 2023. „Berufliche Weiterbildung – Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In . [https://doi.org/10.35468/wbeb2022-028](https://doi.org/10.35468/wbeb2022-028).
+Bundesamt für Sicherheit in der Informationstechnik. 2024. „Flyer UP KRITIS“. https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KRITIS/UPK/upk-flyer.html.
 
-IPCC. o. J. „IPCC Glossary“. Zugegriffen 21. August 2024. [https://apps.ipcc.ch/glossary/](https://apps.ipcc.ch/glossary/).
+CIPRNet. o. J. „CIPedia“. Zugegriffen 21. August 2024. https://websites.fraunhofer.de/CIPedia/index.php/CIPedia%C2%A9_Main_Page.
 
-Käpplinger, Bernd. 2023. „Betriebliche Weiterbildung – Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In . [https://doi.org/10.35468/wbeb2022-030](https://doi.org/10.35468/wbeb2022-030).
+Dobischat, Rolf. 2023. „Berufliche Weiterbildung – Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In . https://doi.org/10.35468/wbeb2022-028.
 
-NIST. 2019. „Glossary of Key Information Security Terms“. 2019. [https://csrc.nist.gov/glossary](https://csrc.nist.gov/glossary).
+IPCC. o. J. „IPCC Glossary“. Zugegriffen 21. August 2024. https://apps.ipcc.ch/glossary/.
 
-Rinaldi, S.M., J.P. Peerenboom, und T.K. Kelly. 2001. „Identifying, understanding, and analyzing critical infrastructure interdependencies“. IEEE Control Systems Magazine 21 (6): 11–25. [https://doi.org/10.1109/37.969131](https://doi.org/10.1109/37.969131).
+Käpplinger, Bernd. 2023. „Betriebliche Weiterbildung – Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In . https://doi.org/10.35468/wbeb2022-030.
 
-Rohs, Matthias. 2023. „Wissenschaftliche Weiterbildung – Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In . [https://doi.org/10.35468/wbeb2022-299](https://doi.org/10.35468/wbeb2022-299).
-UNDRR. 2023. „Sendai Framework Terminology on Disaster Risk Reduction“. 9. März 2023. [http://www.undrr.org/drr-glossary/terminology](http://www.undrr.org/drr-glossary/terminology).
+NIST. 2019. „Glossary of Key Information Security Terms“. 2019. https://csrc.nist.gov/glossary.
+
+Rinaldi, S.M., J.P. Peerenboom, und T.K. Kelly. 2001. „Identifying, understanding, and analyzing critical infrastructure interdependencies“. IEEE Control Systems Magazine 21 (6): 11–25. https://doi.org/10.1109/37.969131.
+
+Rohs, Matthias. 2023. „Wissenschaftliche Weiterbildung – Digitales Wörterbuch Erwachsenen- und Weiterbildung“. In . https://doi.org/10.35468/wbeb2022-299.
+
+UNDRR. 2023. „Sendai Framework Terminology on Disaster Risk Reduction“. 9. März 2023. http://www.undrr.org/drr-glossary/terminology.
+
+„Anpassung an den Klimawandel_- Vulnerabilität, Auswirkungen und Risikobewertung“. 2021. DIN Media GmbH. https://doi.org/10.31030/3215272.
+
+Zivilschutz- und Katastrophenhilfegesetz (ZSKG). 1997. https://www.gesetze-im-internet.de/zsg/.
 
 ## Grüne Infrastruktur
 
-Deutscher Wetterdienst. o. J. „Klimawirkung - Deutscher Wetterdienst“. Zugegriffen 21. August 2024. [https://www.dwd.de/DE/forschung/klima_umwelt/klimawirk/klimawirk_node.html](https://www.dwd.de/DE/forschung/klima_umwelt/klimawirk/klimawirk_node.html).
+Deutscher Wetterdienst. o. J. „Klimawirkung - Deutscher Wetterdienst“. Zugegriffen 21. August 2024. https://www.dwd.de/DE/forschung/klima_umwelt/klimawirk/klimawirk_node.html.
 
-Naturkapital Deutschland. o. J. „Glossar - Naturkapital Deutschland - TEEB DE“. Zugegriffen 21. August 2024. [https://www.ufz.de/teebde/index.php?de=43784](https://www.ufz.de/teebde/index.php?de=43784).
-
-## Co-Design
-
-Gaete Cruz, M., Ersoy, A., Czischke, D., & van Bueren, E. (2022). Towards a framework for urban landscape co-design: Linking the participation ladder and the design cycle. CoDesign, 19(3), 233–252. [https://doi.org/10.1080/15710882.2022.2123928](https://doi.org/10.1080/15710882.2022.2123928)
+Naturkapital Deutschland. o. J. „Glossar - Naturkapital Deutschland - TEEB DE“. Zugegriffen 21. August 2024. https://www.ufz.de/teebde/index.php?de=43784.
 
 ## VUCA
 
-Bendel, Prof Dr Oliver. o. J. „Definition: VUCA“. Text. Springer Fachmedien Wiesbaden GmbH. Zugegriffen 21. August 2024. [https://wirtschaftslexikon.gabler.de/definition/vuca-119684](https://wirtschaftslexikon.gabler.de/definition/vuca-119684).
+Bendel, Prof Dr Oliver. 2024. „Definition: VUCA“. Text. https://wirtschaftslexikon.gabler.de/definition/vuca-119684. Springer Fachmedien Wiesbaden GmbH. August 2024. https://wirtschaftslexikon.gabler.de/definition/vuca-119684.
+
 :::
