@@ -18,7 +18,7 @@ book:
     # - glossaries.qmd
     - imprint.qmd
     - contributors.qmd 
-    - references.qmd
+    - references.qmd 
   repo-url: https://github.com/TIBHannover/co-site-glossar
   repo-actions: [edit]
   downloads: [pdf,docx,epub]
