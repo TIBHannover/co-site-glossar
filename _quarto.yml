@@ -6,7 +6,7 @@ book:
   title: "Glossar des Projekts Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln"
   subtitle: "(Co-Site)"
   author: ""
-  date: last-modified
+  date: now
   date-format: DD. MMMM YYYY, HH:mm:ss
   chapters:
     - index.qmd
