@@ -6,7 +6,7 @@ book:
   title: "Glossar des Projekts Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln"
   subtitle: "(Co-Site)"
   author: ""
-  date: "2024-12-12"
+  date: "2024-12-17"
   chapters:
     - index.qmd
     - cosite001.ipynb
