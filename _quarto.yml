@@ -7,7 +7,7 @@ book:
   subtitle: "(Co-Site)"
   author: ""
   date: last-modified
-  date-format: DD. MMMM YYYY, HH:mm
+  date-format: DD. MMMM YYYY, HH:mm:ss
   chapters:
     - index.qmd
     - cosite001.ipynb
