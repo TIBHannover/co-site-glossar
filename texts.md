@@ -4,7 +4,7 @@
 
 Raise a GitHub Issue for support: https://github.com/TIBHannover/co-site-glossar/issues 
 
-| Text | File to edit | Who can edit | Notes |
+| Text | File to edit (source) | Who can edit | Notes |
 | :---- | :---- | :---- | :---- |
 | Publication texts |  |  |  |
 | [Co-Site Glossar](https://tibhannover.github.io/co-site-glossar/cosite001.html) | [cosite001.ipynb](https://github.com/TIBHannover/co-site-glossar/blob/main/cosite001.ipynb) | Tech support to edit: Anna, Simon | Tech support will update from Wikibase text |
