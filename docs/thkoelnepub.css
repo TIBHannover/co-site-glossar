@@ -224,3 +224,7 @@ button:hover {
 .margin-sidebar {
   margin-left: 25px;
 }
+
+.paragraph-spaces p {
+  margin-bottom: 1rem;
+}
