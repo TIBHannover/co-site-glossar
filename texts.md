@@ -14,6 +14,7 @@ Raise a GitHub Issue for support: https://github.com/TIBHannover/co-site-glossar
 | [Literatur](https://tibhannover.github.io/co-site-glossar/references.html) | [references.qmd](https://github.com/TIBHannover/co-site-glossar/blob/main/references.qmd) | Editorial and Tech Support | Edit entries in Zotero and copy paste across. Zotero Group: https://www.zotero.org/groups/5631396/co-site_book_sprints/library |
 | Wikibase texts |  |  |  |
 | [Co-Site Glossar](https://climatekg.semanticclimate.net/index.php?title=Co-Site_Glossar) | [Co-Site Glossar](https://climatekg.semanticclimate.net/index.php?title=Co-Site_Glossar) | Editorial and Tech Support |  |
+| [Mitwirkende](https://tibhannover.github.io/co-site-glossar/contributors.html) | Mitwirkende (See above) | Editorial and Tech Support |  |
 | Github text |  |  |  |
 | [README](https://github.com/TIBHannover/co-site-glossar/blob/main/README.md) | [README.md](https://github.com/TIBHannover/co-site-glossar/blob/main/README.md) | Editorial and Tech Support |  |
 
