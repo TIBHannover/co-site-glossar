@@ -4,7 +4,7 @@
 ::: {#refs}
 :::
 -->
-
+::: {.paragraph-spaces}
 ## Verwaltung von Referenzen
 
 Zotero Group: [https://www.zotero.org/groups/5631396/co-site_book_sprints/library](https://www.zotero.org/groups/5631396/co-site_book_sprints/library)
@@ -48,3 +48,4 @@ Gaete Cruz, M., Ersoy, A., Czischke, D., & van Bueren, E. (2022). Towards a fram
 ## VUCA
 
 Bendel, Prof Dr Oliver. o. J. „Definition: VUCA“. Text. Springer Fachmedien Wiesbaden GmbH. Zugegriffen 21. August 2024. [https://wirtschaftslexikon.gabler.de/definition/vuca-119684](https://wirtschaftslexikon.gabler.de/definition/vuca-119684).
+:::

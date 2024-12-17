@@ -1,3 +1,4 @@
+::: {.paragraph-spaces}
 # Mitwirkende
 
 ## Autor:innen 
@@ -111,3 +112,4 @@ Konstruktionstechnik (IPK)
 Worthington, S., Bailly, K., & Rahr, A. (2024). Co-Site Glossar (Version
 0.0.1a) \[Computer software\].
 <https://github.com/TIBHannover/co-site-glossar>
+:::
