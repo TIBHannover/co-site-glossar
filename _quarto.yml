@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 book:
-  title: "Glossar des Projekts Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln"
-  subtitle: "(Co-Site)"
+  title: "Glossar des Projekts Co-Site" 
+  subtitle: "Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln"
   author: ""
   date: now
   date-format: DD. MMMM YYYY, HH:mm:ss
