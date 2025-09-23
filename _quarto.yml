@@ -12,10 +12,6 @@ book:
     - index.qmd
     - cosite001.ipynb
     - cosite002.ipynb
-    # - ipcc-wip.ipynb
-    # - epa.ipynb
-    # - resources/cct.qmd
-    # - glossaries.qmd
     - imprint.qmd
     - contributors.qmd 
     - references.qmd 
@@ -30,9 +26,6 @@ book:
 
 comments:
   hypothesis: true
-
-#filters: 
-#  - "no-hypersetup.lua"
 
 bibliography: references.bib
 
@@ -70,7 +63,6 @@ format:
     title-boxopacity: 0
     title-boxfontcolor: black
     boxlinks: true
-    #keep-tex: true 
   
   docx: 
     toc: true
