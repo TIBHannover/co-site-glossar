@@ -3,109 +3,63 @@
 
 ## Autor:innen 
 
-Sandra Alfonso de Nehren, TH Köln - Fakultät für Raumentwicklung und
-Infrastruktursysteme, Institute for Technology and Resources Management
-in the Tropics and Subtropics (ITT)
+Sandra Alfonso de Nehren, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
 
-Ilona Arcaro, TH Köln - Akademie für wissenschaftliche Weiterbildung,
-Wissenschaftliche Weiterbildung
+Ilona Arcaro, TH Köln - Akademie für wissenschaftliche Weiterbildung, Wissenschaftliche Weiterbildung
 
-Muhammed Enes Bodur, TH Köln - Fakultät für Anlagen, Energie- und
-Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr
-(IRG)
+Muhammed Enes Bodur, TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr (IRG)
 
-Nico Buck, (ORCID iD:
-[0009-0002-9390-1336](https://orcid.org/0009-0002-9390-1336)), TH Köln -
-Fakultät für Anlagen, Energie- und Maschinensysteme
+Nico Buck, (ORCID iD: [0009-0002-9390-1336](https://orcid.org/0009-0002-9390-1336)), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme
 
-Anne Diessner, TH Köln - Fakultät für Raumentwicklung und
-Infrastruktursysteme
+Anne Diessner, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
 
-Lars Dietrich (ORCID iD:
-[0000-0003-3407-166X](https://orcid.org/0000-0003-3407-166X)), Stadt
-Leverkusen, NaturGut Ophoven
+Lars Dietrich (ORCID iD: [0000-0003-3407-166X](https://orcid.org/0000-0003-3407-166X)), Stadt Leverkusen, NaturGut Ophoven
 
-Alexander Fekete, TH Köln - Fakultät für Anlagen, Energie- und
-Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr
-(IRG)
+Alexander Fekete, TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr (IRG)
 
-Barbara Elisabeth Frick, TH Köln - Fakultät für Informations- und
-Kommunikationswissenschaften
+Barbara Elisabeth Frick, TH Köln - Fakultät für Informations- und Kommunikationswissenschaften
 
-Claudia Frick, TH Köln - Fakultät für Informations- und
-Kommunikationswissenschaften, Institut für Informationswissenschaft
+Claudia Frick, TH Köln - Fakultät für Informations- und Kommunikationswissenschaften, Institut für Informationswissenschaft
 
-Henny Grotehusmann, TH Köln - Fakultät für Raumentwicklung und
-Infrastruktursysteme
+Henny Grotehusmann, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
 
-Lambert Heller, (ORCID iD:
-[0000-0003-0232-7085](https://orcid.org/0000-0003-0232-7085)), TIB -
-Leibniz Informationszentrum Technik und Naturwissenschaften
+Lambert Heller, (ORCID iD: [0000-0003-0232-7085](https://orcid.org/0000-0003-0232-7085)), TIB - Leibniz Informationszentrum Technik und Naturwissenschaften
 
-Chris Hetkämper, TH Köln - Fakultät für Anlagen, Energie- und
-Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr
-(IRG)
+Chris Hetkämper, TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr (IRG)
 
-Friederike Holtmann (ORCID iD:
-[0009-0004-3451-0962](https://orcid.org/0009-0004-3451-0962)), TH Köln -
-Fakultät für Anlagen, Energie- und Maschinensysteme
+Friederike Holtmann (ORCID iD: [0009-0004-3451-0962](https://orcid.org/0009-0004-3451-0962)), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme
 
-Carla Jakobowsky (ORCID iD:
-[0009-0007-8663-1856](https://orcid.org/0009-0007-8663-1856)), TH Köln -
-Fakultät für Anlagen, Energie- und Maschinensysteme
+Carla Jakobowsky (ORCID iD: [0009-0007-8663-1856](https://orcid.org/0009-0007-8663-1856)), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme
 
-Johanne Kaufmann, TH Köln - Fakultät für Raumentwicklung und
-Infrastruktursysteme
+Johanne Kaufmann, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
 
-Ines Könsgen (ORCID iD:
-[0009-0009-2260-8301](https://orcid.org/0009-0009-2260-8301)), TH Köln -
-Fakultät für Raumentwicklung und Infrastruktursysteme
+Ines Könsgen (ORCID iD: [0009-0009-2260-8301](https://orcid.org/0009-0009-2260-8301)), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
 
-Silvia Marie Krautzik, TH Köln - Fakultät für Raumentwicklung und
-Infrastruktursysteme, Institute for Technology and Resources Management
-in the Tropics and Subtropics (ITT)
+Silvia Marie Krautzik, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
 
-Georg Lamberty, TH Köln - Fakultät für Raumentwicklung und
-Infrastruktursysteme, Institute for Technology and Resources Management
-in the Tropics and Subtropics (ITT)
+Georg Lamberty, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
 
-Julia Laux (ORCID iD:
-[<https://orcid.org/0009-0002-5293-561X>](http://0009-0002-5293-561X),
-TH Köln - Fakultät für Informations- und Kommunikationswissenschaften
+Julia Laux (ORCID iD: [0009-0002-5293-561X](https://orcid.org/0009-0002-5293-561X)), TH Köln - Fakultät für Informations- und Kommunikationswissenschaften
 
 Isabell Mayer, Kolpingstadt Kerpen, Fachbereich Nachhaltigkeit
 
-Silke Meilwes, TH Köln - Fakultät für Raumentwicklung und
-Infrastruktursysteme, Institute for Technology and Resources Management
-in the Tropics and Subtropics (ITT)
+Silke Meilwes, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
 
-Larissa Müller, TH Köln - Fakultät für Anlagen, Energie- und
-Maschinensysteme, Institut für Produktentwicklung und
-Konstruktionstechnik (IPK)
+Larissa Müller, TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
 
 Antti Olbrisch, Kolpingstadt Kerpen, Fachbereich Klima & Umwelt
 
-Juan Luis Ramirez Duval, TH Köln - Fakultät für Raumentwicklung und
-Infrastruktursysteme
+Juan Luis Ramirez Duval, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
 
-Lars Ribbe, TH Köln - Fakultät für Raumentwicklung und
-Infrastruktursysteme, Institute for Technology and Resources Management
-in the Tropics and Subtropics (ITT)
+Lars Ribbe, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
 
-Johanna Schmidt (ORCID ID: <https://orcid.org/0000-0001-8827-9461>)
-Stadt Leverkusen, Fachbereich Mobilität und Klimaschutz
+Johanna Schmidt (ORCID iD: [0000-0001-8827-9461](https://orcid.org/0000-0001-8827-9461)), Stadt Leverkusen, Fachbereich Mobilität und Klimaschutz
 
-Surendra Shiwakoti, TH Köln - Fakultät für Raumentwicklung und
-Infrastruktursysteme
+Surendra Shiwakoti, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
 
-Jan Terschüren (ORCID iD:
-[0009-0000-9016-4831](https://orcid.org/0009-0000-9016-4831)), TH Köln -
-Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für
-Produktentwicklung und Konstruktionstechnik (IPK)
+Jan Terschüren (ORCID iD: [0009-0000-9016-4831](https://orcid.org/0009-0000-9016-4831)), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
 
-Alexandra Tönies, TH Köln - Fakultät für Anlagen, Energie- und
-Maschinensysteme, Institut für Produktentwicklung und
-Konstruktionstechnik (IPK)
+Alexandra Tönies, TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
 
 ## Programmierung
 
