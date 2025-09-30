@@ -25,7 +25,7 @@ book:
     left: "[Datenschutz](https://projects.tib.eu/nextgen-books/datenschutz/)" 
 
 comments:
-  hypothesis: true
+  hypothesis: false
 
 bibliography: references.bib
 
