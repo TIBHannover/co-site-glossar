@@ -3,7 +3,7 @@
 
 ## Autor:innen 
 
-Sandra Alfonso de Nehren, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
+Sandra Alfonso de Nehren, ORCID: [0009-0005-2435-7666](https://orcid.org/0009-0005-2435-7666), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
 
 Svenja Bickert-Appleby, ORCID: [0009-0008-4062-0833](https://orcid.org/0009-0008-4062-0833), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
 
@@ -15,11 +15,11 @@ Nico Buck, ORCID: [0009-0002-9390-1336](https://orcid.org/0009-0002-9390-1336), 
 
 Anne Diessner, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
 
-Lars Dietrich, ORCID: [0000-0003-3407-166X](https://orcid.org/0000-0003-3407-166X), Stadt Leverkusen, NaturGut Ophoven
+Lars Dietrich, ORCID: [0000-0003-3407-166X](https://orcid.org/0000-0003-3407-166X), Stadt Leverkusen, NaturGut Ophoven und Justus-Liebig-Universität Gießen, Institut für Biologiedidaktik
 
 Alexander Fekete, ORCID: [0000-0002-8029-6774](https://orcid.org/0000-0002-8029-6774), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr (IRG)
 
-Barbara Elisabeth Frick, ORCID: [0009-0000-5881-6123](https://orcid.org/0009-0000-5881-6123), TH Köln - Fakultät für Informations- und Kommunikationswissenschaften
+Barbara Elisabeth Frick, ORCID: [0009-0000-5881-6123](https://orcid.org/0009-0000-5881-6123), TH Köln - Fakultät für Informations- und <br>Kommunikationswissenschaften
 
 Claudia Frick, ORCID: [0000-0002-5291-4301](https://orcid.org/0000-0002-5291-4301), TH Köln - Fakultät für Informations- und Kommunikationswissenschaften, Institut für Informationswissenschaft
 
