@@ -4,76 +4,85 @@ Claudiustraße 1<br>
 50678 Köln<br>
 [www.th-koeln.de](https://www.th-koeln.de) 
 
+<b>Verantwortlich</b>
+
+Projekt Co-Site (Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln)
+
 ## Autor:innen 
 
-Sandra Alfonso de Nehren, ORCID: [0009-0005-2435-7666](https://orcid.org/0009-0005-2435-7666), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
+Alexander Fekete, ORCID: [0000-0002-8029-6774](https://orcid.org/0000-0002-8029-6774), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr (IRG)
 
-Svenja Bickert-Appleby, ORCID: [0009-0008-4062-0833](https://orcid.org/0009-0008-4062-0833), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
+Alexandra Tönies, TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK) 
+
+Anne Diessner, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
+
+Antti Olbrisch, Kolpingstadt Kerpen, Fachbereich Klima & Umwelt
+
+Barbara Elisabeth Frick, ORCID: [0009-0000-5881-6123](https://orcid.org/0009-0000-5881-6123), TH Köln - Fakultät für Informations- und Kommunikationswissenschaften, Institut für Informationswissenschaft (IWS)
+
+Carla Frohn, ORCID: [0009-0007-8663-1856](https://orcid.org/0009-0007-8663-1856), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK) 
+
+Chris Hetkämper, ORCID: [0000-0001-5873-921X](https://orcid.org/0000-0001-5873-921X), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr (IRG)
+
+Claudia Frick, ORCID: [0000-0002-5291-4301](https://orcid.org/0000-0002-5291-4301), TH Köln - Fakultät für Informations- und Kommunikationswissenschaften, Institut für Informationswissenschaft (IWS)
+
+Daniel Beckers, TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr (IRG)
+
+Friederike Holtmann, ORCID: [0009-0004-3451-0962](https://orcid.org/0009-0004-3451-0962), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
+
+Georg Lamberty, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
+
+Henny Grotehusmann, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
 
 Ilona Arcaro, TH Köln - Akademie für wissenschaftliche Weiterbildung, Wissenschaftliche Weiterbildung
+
+Ines Könsgen, ORCID: [0009-0009-2260-8301](https://orcid.org/0009-0009-2260-8301), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
+
+Isabell Mayer, Kolpingstadt Kerpen, Fachbereich Nachhaltigkeit
+
+Jan-Niklas Terschüren, ORCID: [0009-0000-9016-4831](https://orcid.org/0009-0000-9016-4831), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
+
+Johanna Schmidt, ORCID: [0000-0001-8827-9461](https://orcid.org/0000-0001-8827-9461), Stadt Leverkusen, Fachbereich Mobilität und Klimaschutz
+
+Johanne Kaufmann, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
+
+Juan Luis Ramirez Duval, ORCID: [0000-0003-2239-8921](https://orcid.org/0000-0003-2239-8921), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
+
+Julia Laux, ORCID: [0009-0002-5293-561X](https://orcid.org/0009-0002-5293-561X), TH Köln - Fakultät für Informations- und Kommunikationswissenschaften (IWS)
+
+Lambert Heller, ORCID: [0000-0003-0232-7085](https://orcid.org/0000-0003-0232-7085), TIB - Leibniz Informationszentrum Technik und Naturwissenschaften
+
+Larissa Müller, ORCID: [0000-0002-9854-3403](https://orcid.org/0000-0002-9854-3403), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
+
+Lars Dietrich, ORCID: [0000-0003-3407-166X](https://orcid.org/0000-0003-3407-166X), Stadt Leverkusen, NaturGut Ophoven und Justus-Liebig-Universität Gießen, Institut für Biologiedidaktik
+
+Lars Ribbe, ORCID: [0000-0003-3052-1782](https://orcid.org/0000-0003-3052-1782), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
 
 Muhammed Enes Bodur, ORCID: [0009-0001-2984-5766](https://orcid.org/0009-0001-2984-5766), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr (IRG)
 
 Nico Buck, ORCID: [0009-0002-9390-1336](https://orcid.org/0009-0002-9390-1336), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme
 
-Anne Diessner, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
+Regina Harms, ORCID: [0009-0000-3988-3937](https://orcid.org/0009-0000-3988-3937), TH Köln - Fakultät für Informations- und Kommunikationswissenschaften, Institut für Informationswissenschaft (IWS)
 
-Lars Dietrich, ORCID: [0000-0003-3407-166X](https://orcid.org/0000-0003-3407-166X), Stadt Leverkusen, NaturGut Ophoven und Justus-Liebig-Universität Gießen, Institut für Biologiedidaktik
-
-Alexander Fekete, ORCID: [0000-0002-8029-6774](https://orcid.org/0000-0002-8029-6774), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr (IRG)
-
-Barbara Elisabeth Frick, ORCID: [0009-0000-5881-6123](https://orcid.org/0009-0000-5881-6123), TH Köln - Fakultät für Informations- und <br>Kommunikationswissenschaften
-
-Claudia Frick, ORCID: [0000-0002-5291-4301](https://orcid.org/0000-0002-5291-4301), TH Köln - Fakultät für Informations- und Kommunikationswissenschaften, Institut für Informationswissenschaft
-
-Henny Grotehusmann, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
-
-Regina Harms, ORCID: [0009-0000-3988-3937](https://orcid.org/0009-0000-3988-3937), TH Köln - Fakultät für Informations- und Kommunikationswissenschaften, Institut für Informationswissenschaft
-
-Lambert Heller, ORCID: [0000-0003-0232-7085](https://orcid.org/0000-0003-0232-7085), TIB - Leibniz Informationszentrum Technik und Naturwissenschaften
-
-Chris Hetkämper, ORCID: [0000-0001-5873-921X](https://orcid.org/0000-0001-5873-921X), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr (IRG)
-
-Friederike Holtmann, ORCID: [0009-0004-3451-0962](https://orcid.org/0009-0004-3451-0962), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme
-
-Carla Frohn, ORCID: [0009-0007-8663-1856](https://orcid.org/0009-0007-8663-1856), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme
-
-Johanne Kaufmann, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
-
-Ines Könsgen, ORCID: [0009-0009-2260-8301](https://orcid.org/0009-0009-2260-8301), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
-
-Silvia Marie Krautzik, ORCID: [0009-0008-4684-298X](https://orcid.org/0009-0008-4684-298X), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
-
-Georg Lamberty, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
-
-Julia Laux, ORCID: [0009-0002-5293-561X](https://orcid.org/0009-0002-5293-561X), TH Köln - Fakultät für Informations- und Kommunikationswissenschaften
-
-Isabell Mayer, Kolpingstadt Kerpen, Fachbereich Nachhaltigkeit
+Sandra Alfonso de Nehren, ORCID: [0009-0005-2435-7666](https://orcid.org/0009-0005-2435-7666), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
 
 Silke Meilwes, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
 
-Larissa Müller, ORCID: [0000-0002-9854-3403](https://orcid.org/0000-0002-9854-3403), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
-
-Antti Olbrisch, Kolpingstadt Kerpen, Fachbereich Klima & Umwelt
-
-Juan Luis Ramirez Duval, ORCID: [0000-0003-2239-8921](https://orcid.org/0000-0003-2239-8921), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
-
-Lars Ribbe, ORCID: [0000-0003-3052-1782](https://orcid.org/0000-0003-3052-1782), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
-
-Johanna Schmidt, ORCID: [0000-0001-8827-9461](https://orcid.org/0000-0001-8827-9461), Stadt Leverkusen, Fachbereich Mobilität und Klimaschutz
+Silvia Marie Krautzik, ORCID: [0009-0008-4684-298X](https://orcid.org/0009-0008-4684-298X), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
 
 Surendra Shiwakoti, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
 
-Jan-Niklas Terschüren, ORCID: [0009-0000-9016-4831](https://orcid.org/0009-0000-9016-4831), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
+Svenja Bickert-Appleby, ORCID: [0009-0008-4062-0833](https://orcid.org/0009-0008-4062-0833), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
 
-Alexandra Tönies, TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK) 
+##Redaktion
+
+Julia Laux, Barbara Frick, Regina Harms und Claudia Frick
 
 ## Programmierung
 
 Worthington, S., Bailly, K., & Rahr, A. (2024). Co-Site Glossar (Version
 0.0.1a) \[Computer software\].
 <https://github.com/TIBHannover/co-site-glossar>
-
 
 ## Urheberrecht und Lizensierung
 
@@ -87,5 +96,10 @@ Alle Schriftarten, Grafiken und Medienproduktionssoftware, die für die Produkti
 
 [FAIR-Grundsätze](https://www.go-fair.org/fair-principles/) angewandt
 
-Alle Inhalte und Codes von Dritten unterliegen dem Urheberrecht der Autor:innen und ihren jeweiligen OSI-konformen offenen Lizenzen für den Code und der Creative Commons Attribution-ShareAlike 4.0 International für den Inhalt.
+Alle Inhalte und Codes von Dritten unterliegen dem Urheberrecht der Autor:innen, ihren jeweiligen OSI-konformen offenen Lizenzen für den Code und der Lizenz Creative Commons Attribution-ShareAlike 4.0 International für den Inhalt.
+
+
+Stand: Dezember 2024
+Zitation: Co-Site (2026): Glossar des Projekts Co-Site (Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln) (Hrsg. TH Köln)  
+
 
