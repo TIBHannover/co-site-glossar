@@ -16,7 +16,7 @@ Alexandra Tönies, TH Köln - Fakultät für Anlagen, Energie- und Maschinensyst
 
 Anne Diessner, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
 
-Antti Olbrisch, Kolpingstadt Kerpen, Fachbereich Klima & Umwelt
+Antti Olbrisch, Kolpingstadt Kerpen, Fachbereich Klima und Umwelt
 
 Barbara Elisabeth Frick, ORCID: [0009-0000-5881-6123](https://orcid.org/0009-0000-5881-6123), TH Köln - Fakultät für Informations- und Kommunikationswissenschaften, Institut für Informationswissenschaft (IWS)
 
@@ -38,7 +38,7 @@ Ilona Arcaro, TH Köln - Akademie für wissenschaftliche Weiterbildung, Wissensc
 
 Ines Könsgen, ORCID: [0009-0009-2260-8301](https://orcid.org/0009-0009-2260-8301), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme, Institute for Technology and Resources Management in the Tropics and Subtropics (ITT)
 
-Isabell Mayer, Kolpingstadt Kerpen, Fachbereich Nachhaltigkeit
+Isabell Mayer, Kolpingstadt Kerpen, Fachbereich Klima und Umwelt
 
 Jan-Niklas Terschüren, ORCID: [0009-0000-9016-4831](https://orcid.org/0009-0000-9016-4831), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
 
@@ -49,6 +49,8 @@ Johanne Kaufmann, TH Köln - Fakultät für Raumentwicklung und Infrastruktursys
 Juan Luis Ramirez Duval, ORCID: [0000-0003-2239-8921](https://orcid.org/0000-0003-2239-8921), TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
 
 Julia Laux, ORCID: [0009-0002-5293-561X](https://orcid.org/0009-0002-5293-561X), TH Köln - Fakultät für Informations- und Kommunikationswissenschaften (IWS)
+
+Julian Bleckmann, Kolpingstadt Kerpen, Fachbereich Klima und Umwelt
 
 Lambert Heller, ORCID: [0000-0003-0232-7085](https://orcid.org/0000-0003-0232-7085), TIB - Leibniz Informationszentrum Technik und Naturwissenschaften
 
@@ -84,7 +86,7 @@ Worthington, S., Bailly, K., & Rahr, A. (2024). Co-Site Glossar (Version
 0.0.1a) \[Computer software\].
 <https://github.com/TIBHannover/co-site-glossar>
 
-## Urheberrecht und Lizensierung
+## Urheberrecht und Lizenzierung
 
 Inhalt - © 2024 Die Autor:innen. [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 
