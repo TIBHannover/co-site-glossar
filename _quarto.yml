@@ -38,32 +38,35 @@ format:
 
   pdf:
     #latex-engine: xelatex
-    lang: de
-    number-sections: false
-    toc-depth: 3
-    documentclass: book
-    include-in-header: "in-header.tex"
-    pagestyle: plain # page numbers
-    geometry: # margins
-      - top=35mm
-      - right=25mm
-      - bottom=35mm
-      - left=25mm
-      - heightrounded
-    classoption: openany 
-    fontsize: 12pt
-    papersize: a4
-    template-partials:
-      - "_titlepage.tex" 
-      - "before-body.tex"
-    title-bg-image: "cover/thkoeln_cover.png"
-    title-bg-location: "LR" # UL, UR, LR, LL, leave empty for centered
-    title-bg-size: 0.30
-    title-boxcolor: gray!15!black
-    title-boxopacity: 0
-    title-boxfontcolor: black
-    boxlinks: false
-    colorlinks: true
+      lang: de
+      number-sections: false
+      toc-depth: 3
+      documentclass: book
+      include-in-header: "in-header.tex"
+      pagestyle: plain # page numbers
+      geometry: # margins
+        - top=35mm
+        - right=25mm
+        - bottom=35mm
+        - left=25mm
+        - heightrounded
+      classoption: openany 
+      fontsize: 12pt
+      papersize: a4
+      template-partials:
+        - "_titlepage.tex" 
+        - "before-body.tex"
+      title-bg-image: "cover/thkoeln_cover.png"
+      title-bg-location: "LR" # UL, UR, LR, LL, leave empty for centered
+      title-bg-size: 0.30
+      title-boxcolor: gray!15!black
+      title-boxopacity: 0
+      title-boxfontcolor: black
+      boxlinks: false
+      colorlinks: true 
+      linkcolor: thkoelnred
+      urlcolor: thkoelnred
+      citecolor: thkoelnred
   
   docx: 
     toc: true
