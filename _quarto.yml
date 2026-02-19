@@ -62,7 +62,8 @@ format:
     title-boxcolor: gray!15!black
     title-boxopacity: 0
     title-boxfontcolor: black
-    boxlinks: true
+    boxlinks: false
+    colorlinks: true
   
   docx: 
     toc: true
