@@ -6,7 +6,7 @@ Das Forschungsprojekt Co-Site wird vom Bundesministerium für Bildung und Forsch
 
 Weitere Informationen zum Projekt finden Sie auf der [Website der TH Köln](https://www.th-koeln.de/forschung/co-kreation-in-der-region--systemisch-und-innovativ-transfer-entwickeln_98474.php).  
 
-Dieses [Glossar](cosite001.ipynb) dient dazu, die zentralen Begriffe und Konzepte des Projekts Co-Site verständlich zu erklären. Indem wir Schlüsselbegriffe und wichtige Konzepte definieren, möchten wir die Kommunikation und das Verständnis innerhalb des Projekts und darüber hinaus verbessern. Es soll einen schnellen und umfassenden Überblick über die wichtigsten Themen und Begrifflichkeiten zu geben, die im Kontext der Klimawandelanpassung und unseres Reallabors von Bedeutung sind. Es soll allen Beteiligten – von Studierenden und Wissenschaftler:innen bis hin zu politischen Entscheidungsträgern und interessierten Bürger:innen – eine nützliche Ressource bieten.
+Dieses [Glossar](https://tibhannover.github.io/co-site-glossar/) dient dazu, die zentralen Begriffe und Konzepte des Projekts Co-Site verständlich zu erklären. Indem wir Schlüsselbegriffe und wichtige Konzepte definieren, möchten wir die Kommunikation und das Verständnis innerhalb des Projekts und darüber hinaus verbessern. Es soll einen schnellen und umfassenden Überblick über die wichtigsten Themen und Begrifflichkeiten zu geben, die im Kontext der Klimawandelanpassung und unseres Reallabors von Bedeutung sind. Es soll allen Beteiligten – von Studierenden und Wissenschaftler:innen bis hin zu politischen Entscheidungsträgern und interessierten Bürger:innen – eine nützliche Ressource bieten.
 
 ## Code
 

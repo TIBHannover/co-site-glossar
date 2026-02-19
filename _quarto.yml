@@ -10,9 +10,9 @@ book:
   date-format: DD. MMMM YYYY, HH:mm:ss
   chapters:
     - index.qmd
+    - imprint.qmd
     - cosite001.ipynb
     - cosite002.ipynb
-    - imprint.qmd
     - contributors.qmd 
     - references.qmd 
   repo-url: https://github.com/TIBHannover/co-site-glossar
