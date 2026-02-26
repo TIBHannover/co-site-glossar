@@ -1,18 +1,19 @@
 # Impressum
-TH Köln<br>
-Claudiustraße 1<br>
-50678 Köln<br>
-[www.th-koeln.de](https://www.th-koeln.de) 
 
-<b>Verantwortlich</b>
+TH Köln\
+Claudiustraße 1\
+50678 Köln\
+[www.th-koeln.de](https://www.th-koeln.de)
+
+## Verantwortlich  
 
 Projekt Co-Site (Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln)
 
-## Autor:innen 
+## Autor:innen
 
 Alexander Fekete, ORCID: [0000-0002-8029-6774](https://orcid.org/0000-0002-8029-6774), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr (IRG)
 
-Alexandra Tönies, TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK) 
+Alexandra Tönies, TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
 
 Anne Diessner, TH Köln - Fakultät für Raumentwicklung und Infrastruktursysteme
 
@@ -20,7 +21,7 @@ Antti Olbrisch, Kolpingstadt Kerpen, Fachbereich Klima und Umwelt
 
 Barbara Elisabeth Frick, ORCID: [0009-0000-5881-6123](https://orcid.org/0009-0000-5881-6123), TH Köln - Fakultät für Informations- und Kommunikationswissenschaften, Institut für Informationswissenschaft (IWS)
 
-Carla Frohn, ORCID: [0009-0007-8663-1856](https://orcid.org/0009-0007-8663-1856), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK) 
+Carla Frohn, ORCID: [0009-0007-8663-1856](https://orcid.org/0009-0007-8663-1856), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
 
 Chris Hetkämper, ORCID: [0000-0001-5873-921X](https://orcid.org/0000-0001-5873-921X), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr (IRG)
 
@@ -76,21 +77,19 @@ Surendra Shiwakoti, TH Köln - Fakultät für Raumentwicklung und Infrastrukturs
 
 Svenja Bickert-Appleby, ORCID: [0009-0008-4062-0833](https://orcid.org/0009-0008-4062-0833), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
 
-##Redaktion
+## Redaktion
 
 Julia Laux, Barbara Frick, Regina Harms und Claudia Frick
 
 ## Programmierung
 
-Worthington, S., Bailly, K., & Rahr, A. (2024). Co-Site Glossar (Version
-0.0.1a) \[Computer software\].
-<https://github.com/TIBHannover/co-site-glossar>
+Worthington, S., Bailly, K., & Rahr, A. (2024). Co-Site Glossar (Version 0.0.1a) \[Computer software\]. <https://github.com/TIBHannover/co-site-glossar>
 
 ## Urheberrecht und Lizenzierung
 
 Inhalt - © 2024 Die Autor:innen. [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Code - © 2024 Die Autor:innen. [MIT-Lizenz](https://github.com/TIBHannover/co-site-glossar/blob/master/LICENSE) | [Quelle](https://github.com/TIBHannover/co-site-glossar)
+Code - © 2024 Die Autor:innen. [MIT-Lizenz](https://github.com/TIBHannover/co-site-glossar/blob/master/LICENSE) \| [Quelle](https://github.com/TIBHannover/co-site-glossar)
 
 Daten - Alle produzierten Daten und Datensätze sind [CC 0](https://creativecommons.org/publicdomain/zero/1.0/), Public Domain.
 
@@ -100,8 +99,14 @@ Alle Schriftarten, Grafiken und Medienproduktionssoftware, die für die Produkti
 
 Alle Inhalte und Codes von Dritten unterliegen dem Urheberrecht der Autor:innen, ihren jeweiligen OSI-konformen offenen Lizenzen für den Code und der Lizenz Creative Commons Attribution-ShareAlike 4.0 International für den Inhalt.
 
+ 
 
 Stand: Dezember 2024
-Zitation: Co-Site (2026): Glossar des Projekts Co-Site (Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln) (Hrsg. TH Köln)  
 
+Zitation: Co-Site (2026): Glossar des Projekts Co-Site (Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln) (Hrsg. TH Köln)
 
+ 
+
+ 
+
+![](images/logo.jpg){fig-align="center" width="100%"}

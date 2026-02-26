@@ -1,11 +1,9 @@
 @charset "UTF-8";
 
-
-
 @font-face {
   font-family: 'Myriad Pro SemiCond';
   src: local('MyriadPro-BoldSemiCnIt'),
-      url('fonts/MyriadPro-BoldSemiCnIt.woff2') format('woff2'),
+      url('../fonts/MyriadPro-BoldSemiCnIt.woff2') format('woff2'),
       url('../fonts/MyriadPro-BoldSemiCnIt.otf') format('otf');
   font-weight: bold;
   font-style: italic;
@@ -15,18 +13,17 @@
 @font-face {
   font-family: 'Myriad Pro SemiCond';
   src: local('MyriadPro-BoldSemiCn'),
-      url('fonts/MyriadPro-BoldSemiCn.woff2') format('woff2'),
+      url('../fonts/MyriadPro-BoldSemiCn.woff2') format('woff2'),
       url('../fonts/MyriadPro-BoldSemiCn.otf') format('otf');
       font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 
-
 @font-face {
   font-family: 'Myriad Pro SemiCond';
   src: local('MyriadPro-SemiCnIt'),
-      url('fonts/MyriadPro-SemiCnIt.woff2') format('woff2'),
+      url('../fonts/MyriadPro-SemiCnIt.woff2') format('woff2'),
       url('../fonts/MyriadPro-SemiCnIt.otf') format('otf');
   font-weight: normal;
   font-style: italic;
@@ -36,13 +33,12 @@
 @font-face {
   font-family: 'Myriad Pro SemiCond';
   src: local('MyriadPro-SemiCn'),
-      url('fonts/MyriadPro-SemiCn.woff2') format('woff2'),
+      url('../fonts/MyriadPro-SemiCn.woff2') format('woff2'),
       url('../fonts/MyriadPro-SemiCn.otf') format('otf');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
-
 
 /* Basic Styles */
 body {
@@ -143,15 +139,10 @@ thead th {
   /*border-bottom: 2px solid #000000;*/
 }
 
-
-
 tr:nth-child(odd){background-color: #f2f2f2b6}
 tr:nth-child(1){border-bottom: 1.5px solid #c81e0f}
 td:nth-child(odd){border-bottom: 1.5px solid #ea5a00}
 td:nth-child(even){border-bottom: 1.5px solid #b43092}
-
-
-
 
 /* Code */
 pre,
@@ -185,8 +176,6 @@ code {
 a > code {
   color: inherit;
 }
-
-
 
 /* Images */
 img {

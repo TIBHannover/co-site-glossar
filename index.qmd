@@ -8,15 +8,3 @@ Weitere Informationen zum Projekt finden Sie auf der [Website der TH Köln](http
 
 Dieses [Glossar](https://tibhannover.github.io/co-site-glossar/) dient dazu, die zentralen Begriffe und Konzepte des Projekts Co-Site verständlich zu erklären. Indem wir Schlüsselbegriffe und wichtige Konzepte definieren, möchten wir die Kommunikation und das Verständnis innerhalb des Projekts und darüber hinaus verbessern. Es soll einen schnellen und umfassenden Überblick über die wichtigsten Themen und Begrifflichkeiten geben, die im Kontext der Klimawandelanpassung und unseres Reallabors von Bedeutung sind. Es soll allen Beteiligten – von Studierenden und Wissenschaftler:innen bis hin zu politischen Entscheidungsträgern und interessierten Bürger:innen – eine nützliche Ressource bieten.
 
-```{=latex}
-\begin{figure}[b!]
-  \raggedleft
-  \begin{subfigure}[b]{0.2\linewidth}
-    \includegraphics[width=\linewidth]{images/innovative-hochschule.png}
-  \end{subfigure}
-  \raggedleft
-  \begin{subfigure}[b]{0.2\linewidth}
-    \includegraphics[width=\linewidth]{images/bmbf-logo-ohne-gefordert.png}
-  \end{subfigure}
-\end{figure}
-```

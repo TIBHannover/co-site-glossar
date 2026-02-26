@@ -10,15 +10,15 @@ book:
   date-format: DD. MMMM YYYY, HH:mm:ss
   chapters:
     - index.qmd
-    - imprint.qmd
     - cosite001.ipynb
     - cosite002.ipynb
-    - contributors.qmd 
+    # - contributors.qmd 
+    - imprint.qmd
     - references.qmd 
   repo-url: https://github.com/TIBHannover/co-site-glossar
   repo-actions: [edit]
   downloads: [pdf,docx,epub]
-  cover-image: cover/thkoeln_cover.png 
+  cover-image: cover/thkoeln_cover.png
   page-footer: 
     center: "[NextGen Books / CPS](https://projects.tib.eu/nextgen-books/)"
     right: "[Impressum](https://projects.tib.eu/nextgen-books/impressum/)"  
@@ -27,14 +27,15 @@ book:
 comments:
   hypothesis: false
 
-bibliography: references.bib
+bibliography: bib/references.bib
 
 format:
   html:
     number-sections: false
     theme: 'lux'
-    css: 'thkoelnepub.css'
+    css: 'css/thkoelnepub.css'
     lang: de
+    cover-image: cover/thkoeln_cover.png
 
   pdf:
     #latex-engine: xelatex
@@ -42,23 +43,23 @@ format:
       number-sections: false
       toc-depth: 3
       documentclass: book
-      include-in-header: "in-header.tex"
+      include-in-header: "tex/in-header.tex"
       pagestyle: plain # page numbers
       geometry: # margins
-        - top=35mm
+        - top=20mm
         - right=25mm
-        - bottom=35mm
+        - bottom=20mm
         - left=25mm
         - heightrounded
       classoption: openany 
       fontsize: 12pt
       papersize: a4
       template-partials:
-        - "_titlepage.tex" 
-        - "before-body.tex"
-      title-bg-image: "cover/thkoeln_cover.png"
-      title-bg-location: "LR" # UL, UR, LR, LL, leave empty for centered
-      title-bg-size: 0.30
+        - "tex/_titlepage.tex" 
+        - "tex/before-body.tex"
+      #title-bg-image: "cover/thkoeln_cover.png"
+      #title-bg-location: "LR" # UL, UR, LR, LL, leave empty for centered
+      #title-bg-size: 0.30
       title-boxcolor: gray!15!black
       title-boxopacity: 0
       title-boxfontcolor: black
@@ -67,10 +68,12 @@ format:
       linkcolor: thkoelnred
       urlcolor: thkoelnred
       citecolor: thkoelnred
+      figures: true
+      figure.caption: true
   
   docx: 
     toc: true
-    reference-doc: "thkoeln_template.docx"
+    reference-doc: "docx-template/thkoeln_template.docx"
     number-sections: false
     toc-depth: 3
 
@@ -78,6 +81,7 @@ format:
     toc: true 
     toc-depth: 3
     number-sections: false
-    css: "thkoelnepub.css"
+    css: "css/thkoelnepub.css"
     code-overflow: wrap
     epub-fonts: ['./fonts/MyriadPro-*.otf']
+    cover-image: cover/cscover.png
