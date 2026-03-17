@@ -9,7 +9,7 @@ book:
   date: now
   date-format: DD. MMMM YYYY, HH:mm:ss
   chapters:
-    - Imprint.qmd 
+    - imprint.qmd 
     - index.qmd
     - cosite001.ipynb
     - cosite002.ipynb
