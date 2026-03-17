@@ -1,4 +1,4 @@
-# Impressum
+# Impressum  
 
 TH Köln\
 Claudiustraße 1\
@@ -9,7 +9,7 @@ Claudiustraße 1\
 
 Projekt Co-Site (Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln)
 
-## Autor:innen
+## Autor:innen  
 
 Alexander Fekete, ORCID: [0000-0002-8029-6774](https://orcid.org/0000-0002-8029-6774), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Rettungsingenieurwesen und Gefahrenabwehr (IRG)
 
@@ -77,15 +77,15 @@ Surendra Shiwakoti, TH Köln - Fakultät für Raumentwicklung und Infrastrukturs
 
 Svenja Bickert-Appleby, ORCID: [0009-0008-4062-0833](https://orcid.org/0009-0008-4062-0833), TH Köln - Fakultät für Anlagen, Energie- und Maschinensysteme, Institut für Produktentwicklung und Konstruktionstechnik (IPK)
 
-## Redaktion
+## Redaktion  
 
 Julia Laux, Barbara Frick, Regina Harms und Claudia Frick
 
-## Programmierung
+## Programmierung  
 
 Worthington, S., Bailly, K., & Rahr, A. (2024). Co-Site Glossar (Version 0.0.1a) \[Computer software\]. <https://github.com/TIBHannover/co-site-glossar>
 
-## Urheberrecht und Lizenzierung
+## Urheberrecht und Lizenzierung  
 
 Inhalt - © 2024 Die Autor:innen. [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -105,8 +105,7 @@ Stand: Dezember 2024
 
 Zitation: Co-Site (2026): Glossar des Projekts Co-Site (Co-Kreation in der Region – Systemisch und innovativ Transfer entwickeln) (Hrsg. TH Köln)
 
- 
+
 
  
-
-![](images/logo.jpg){fig-align="center" width="100%"}
+![](images/logo-combined-2.png){fig-align="center" width="100%"}

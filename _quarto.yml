@@ -9,11 +9,10 @@ book:
   date: now
   date-format: DD. MMMM YYYY, HH:mm:ss
   chapters:
+    - Imprint.qmd 
     - index.qmd
     - cosite001.ipynb
     - cosite002.ipynb
-    # - contributors.qmd 
-    - imprint.qmd
     - references.qmd 
   repo-url: https://github.com/TIBHannover/co-site-glossar
   repo-actions: [edit]
@@ -57,9 +56,9 @@ format:
       template-partials:
         - "tex/_titlepage.tex" 
         - "tex/before-body.tex"
-      #title-bg-image: "cover/thkoeln_cover.png"
-      #title-bg-location: "LR" # UL, UR, LR, LL, leave empty for centered
-      #title-bg-size: 0.30
+      title-bg-image: "cover/thkoeln_cover.png"
+      title-bg-location: "LR" # UL, UR, LR, LL, leave empty for centered
+      title-bg-size: 0.30
       title-boxcolor: gray!15!black
       title-boxopacity: 0
       title-boxfontcolor: black
