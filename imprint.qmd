@@ -1,4 +1,10 @@
-# Impressum  
+---
+title: "Impressum" 
+number-sections: false
+toc: false
+---
+
+::: {.content-hidden when-format="pdf"}
 
 TH Köln\
 Claudiustraße 1\
@@ -109,3 +115,5 @@ Zitation: Co-Site (2026): Glossar des Projekts Co-Site (Co-Kreation in der Regio
 
  
 ![](images/logo-combined-2.png){fig-align="center" width="100%"}
+
+:::

@@ -37,7 +37,7 @@ format:
     cover-image: cover/thkoeln_cover.png
 
   pdf:
-    #latex-engine: xelatex
+    # latex-engine: xelatex
       lang: de
       number-sections: false
       toc-depth: 3

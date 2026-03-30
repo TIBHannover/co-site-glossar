@@ -13,6 +13,23 @@ $endif$
 
 {\let\newpage\relax}
 
+\clearpage
+\input{tex/imprint-body.tex}
+\clearpage
+
+% Suppress the \chapter{Impressum} Quarto generates for imprint.qmd
+% (handles both starred and optional-arg forms)
+\makeatletter
+\let\quartoOrigChapter\chapter
+\renewcommand{\chapter}{\@ifstar
+  {\global\let\chapter\quartoOrigChapter\@gobble}%
+  {\global\let\chapter\quartoOrigChapter\quartoGobbleChapOpt}%
+}
+\def\quartoGobbleChapOpt{\@ifnextchar[{\quartoGobbleChapTwo}{\quartoGobbleChapOne}}
+\def\quartoGobbleChapTwo[#1]#2{}
+\def\quartoGobbleChapOne#1{}
+\makeatother
+
 \DefineVerbatimEnvironment{Highlighting}{Verbatim}{
   commandchars=\\\{\},
   breaklines, breaknonspaceingroup, breakanywhere
