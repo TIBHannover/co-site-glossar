@@ -40,6 +40,8 @@ format:
     # latex-engine: xelatex
       lang: de
       number-sections: false
+      toc: true
+      toc-title: "Inhaltsverzeichnis"
       toc-depth: 3
       documentclass: book
       include-in-header: "tex/in-header.tex"

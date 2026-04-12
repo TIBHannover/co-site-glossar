@@ -17,12 +17,15 @@ $endif$
 \input{tex/imprint-body.tex}
 \clearpage
 
-% Suppress the \chapter{Impressum} Quarto generates for imprint.qmd
-% (handles both starred and optional-arg forms)
+% Suppress the \chapter{Impressum} Quarto generates for imprint.qmd.
+% Starred form (\chapter*) is passed through so \tableofcontents can render
+% its heading (e.g. "Inhaltsverzeichnis"). Only the first non-starred call
+% (the Impressum chapter) is gobbled; then \chapter is fully restored.
 \makeatletter
 \let\quartoOrigChapter\chapter
+\newcommand{\quartoChapterStarHelper}[1]{\quartoOrigChapter*{#1}}
 \renewcommand{\chapter}{\@ifstar
-  {\global\let\chapter\quartoOrigChapter\@gobble}%
+  {\quartoChapterStarHelper}%
   {\global\let\chapter\quartoOrigChapter\quartoGobbleChapOpt}%
 }
 \def\quartoGobbleChapOpt{\@ifnextchar[{\quartoGobbleChapTwo}{\quartoGobbleChapOne}}
