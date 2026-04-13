@@ -114,6 +114,6 @@ Zitation: Co-Site (2026): Glossar des Projekts Co-Site (Co-Kreation in der Regio
 
 
  
-![](images/logo-combined-2.png){fig-align="center" width="100%"}
+![](images/logo-combined.png){fig-align="center" width="100%"}
 
 :::
